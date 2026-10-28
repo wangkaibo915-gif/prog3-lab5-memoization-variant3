@@ -1,0 +1,11 @@
+variant,height,builder,left_calls,right_calls,cache_hits,cache_misses
+3,16,recursive,32767,32767,,
+3,16,iterative,32767,32767,,
+3,16,recursive_memo,17883,17883,2831,32936
+3,16,iterative_memo,17883,17883,,
+3,16,recursive_lru,17883,17883,2831,32936
+13,16,recursive,32767,32767,,
+13,16,iterative,32767,32767,,
+13,16,recursive_memo,120,120,105,136
+13,16,iterative_memo,120,120,,
+13,16,recursive_lru,120,120,105,136
